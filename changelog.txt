@@ -1,0 +1,24 @@
+# Changelog
+All notable changes to the Workspace Genius project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [1.0.1] - 2017-06-25
+### Added
+- Added code to open file explorer at project working directory
+- Minor bug fix
+- Code cleanup and comments
+
+## [1.0.0] - 2017-06-24
+### Added
+- Basic config JSON file, to configure project working directories, live website URLs and other parameters for the python script to use  
+- Basic Python script that starts up Microsoft Visual Studio Code, Microsoft Edge browser, WinSCP, PuTTY and CMD
+- Django development server will be automatically started in the cmd prompt "python manage.py runserver".
+- Added .bat and .sh files to call the python script.
+- Added .exe file to make it more professional, however, it links to hardcoded path at "D:\Workspace_Genius\workspace.py" currently
+- Added icon
+
+## Version List
