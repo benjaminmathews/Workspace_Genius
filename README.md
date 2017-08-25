@@ -5,7 +5,7 @@ Current Version : 1.0.1
 # Description #
 Workspace Genius (name was made up on the fly), is a simple python application with an extremely basic GUI that automates the process of opening up all the applications that I use on a daily basis while working.
 For eg: working on a deployed web application written in Django-Python, would require me to open up a couple of command prompts, browser windows, code editor, FTP client, remote server terminal, at the very least. This much can be automated with a one-click solution, using "Workspace Genius".
-I've created an exe file to launch the python script, with a logo and everything. I've also set up a shortcut launcher on a Rainmeter theme called "Circular Launcher". 
+I've created an exe file to launch the python script, with a logo and everything. I've also set up a shortcut launcher on a Rainmeter theme called "Circle Launcher", simply because it is the current setup on my computer. (Rainmeter skin not included in this repo). 
 Currently the code is written in a way that would probably only work on a system very similar to mine, it is NOT a generalised application that you can "plug and play". However, I will work on making it more flexible when I get time.
 
 # Author #
