@@ -1,0 +1,33 @@
+{
+    "HushHush": {
+        "PROJECT_NAME": "HushHush",
+        "PROJECT_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\HushHush\\HushHsuhPortal\\HushHushWeb\\hushhush",
+        "ICON_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\HushHush\\HushHsuhPortal\\HushHushWeb\\hushhush\\main\\static\\main\\img\\sylo-logo-2.png",
+        "LIVE_URL": "http://162.243.195.66",
+        "VSCODE_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\HushHush\\HushHsuhPortal\\HushHushWeb\\hushhush",
+        "CMD_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\HushHush\\HushHsuhPortal\\HushHushWeb\\hushhush",
+        "WINSCP_URL": "sftp://root@162.243.195.66/var/www/hushhush/hushhush/apache/",
+        "PUTTY_SESSION": "SYLO_server1"
+    },
+    "SDCC": {
+        "PROJECT_NAME": "SDCC",
+        "PROJECT_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\SreeDhanya\\SDPortal\\concierge",
+        "ICON_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\SreeDhanya\\SDPortal\\concierge\\main\\static\\main\\img\\atom_favicon2.png",
+        "LIVE_URL": "http://care.sreedhanyahomes.com",
+        "VSCODE_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\SreeDhanya\\SDPortal\\concierge",
+        "CMD_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\SreeDhanya\\SDPortal\\concierge",
+        "WINSCP_URL": "sftp://root@188.166.217.175/var/www/concierge/main/templates/main/",
+        "PUTTY_SESSION": "SDCC_server2"
+    },
+    "Concierge": {
+        "PROJECT_NAME": "Concierge",
+        "PROJECT_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\Concierge\\ConciergePortal\\concierge",
+        "ICON_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\Concierge\\ConciergePortal\\concierge\\main\\static\\main\\img\\3.png",
+        "LIVE_URL": "http://139.59.112.139",
+        "VSCODE_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\Concierge\\ConciergePortal\\concierge",
+        "CMD_PATH": "C:\\Users\\benma_000\\OneDrive\\Onbyz\\Concierge\\ConciergePortal\\concierge",
+        "WINSCP_URL": "sftp://root@139.59.112.139/var/www/concierge/main/templates/main/",
+        "PUTTY_SESSION": "CONC_server1"
+    }
+}
+
