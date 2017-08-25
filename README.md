@@ -1,9 +1,6 @@
 ### Workspace Genius ###
 
 Current Version : 1.0.1
-Date Created    : 24-08-2017
-Last Modified   : 26-08-2017
-Author          : Benjamin Mathews Abraham
 
 # Description #
 Workspace Genius (name was made up on the fly), is a simple python script that automates the process of opening up all the applications that I use on a daily basis while working.
@@ -11,6 +8,13 @@ For eg: working on a deployed web application written in Django-Python, would re
 I've created an exe file to launch the python script, with a logo and everything. I've also set up a shortcut launcher on a Rainmeter theme called "Circular Launcher". 
 Currently the code is written in a way that would probably only work on a system very similar to mine, it is NOT a generalised application that you can "plug and play". However, I will work on making it more flexible when I get time.
 
+# Author #
+Benjamin Mathews Abraham
+Github    : https://github.com/benjaminmathews
+Bitbucket : https://bitbucket.org/codeinator/
+Twitter   : https://twitter.com/deadlyRnD
+
+# License #
 MIT License
 
 Copyright (c) [2017] [Benjamin Mathews Abraham]
