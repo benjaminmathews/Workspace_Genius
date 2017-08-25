@@ -13,7 +13,7 @@ Currently the code is written in a way that would probably only work on a system
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2017] [Benjamin Mathews Abraham]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
